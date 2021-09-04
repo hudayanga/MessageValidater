@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/Users/htennakoon/.dotnet/store/|arch|/|tfm|",
+      "/Users/htennakoon/.nuget/packages"
+    ]
+  }
+}
