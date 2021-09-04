@@ -1,14 +1,13 @@
 ﻿<Properties StartupConfiguration="{3B52F06E-2975-4B53-B63F-FAB813F2D22C}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="MessageProcessApi/SchemaValidator.cs">
+  <MonoDevelop.Ide.Workbench>
     <Files>
-      <File FileName="MessageProcessApi/WeatherForecast.cs" Line="1" Column="1" />
+      <File FileName="MessageProcessApi/WeatherForecast.cs" Line="15" Column="2" />
       <File FileName="MessageProcessApi/Controllers/WeatherForecastController.cs" />
-      <File FileName="MessageProcessApi/Controllers/MessageController.cs" Line="38" Column="49" />
-      <File FileName="MessageProcessApi/Startup.cs" Line="32" Column="13" />
-      <File FileName="MessageProcessApi/Models/MessageDbContext.cs" Line="12" Column="1" />
-      <File FileName="MessageProcessApi/Models/MsgFormatA.cs" Line="1" Column="1" />
-      <File FileName="MessageProcessApi/Program.cs" Line="16" Column="1" />
-      <File FileName="MessageProcessApi/SchemaValidator.cs" Line="13" Column="28" />
+      <File FileName="MessageProcessApi/Controllers/MessageController.cs" />
+      <File FileName="MessageProcessApi/Startup.cs" />
+      <File FileName="MessageProcessApi/Models/MessageDbContext.cs" />
+      <File FileName="MessageProcessApi/Models/MsgFormatA.cs" />
+      <File FileName="MessageProcessApi/Program.cs" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -21,7 +20,7 @@
               </Node>
               <Node name="Controllers" expanded="True" />
               <Node name="Models" expanded="True" />
-              <Node name="SchemaValidator.cs" selected="True" />
+              <Node name="WeatherForecast.cs" selected="True" />
             </Node>
           </Node>
         </State>
@@ -40,6 +39,7 @@
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <Debugger.DebugSourceFolders />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore>
       <Breakpoint file="/Users/htennakoon/Projects/MessageProcessApi/MessageProcessApi/Controllers/MessageController.cs" relfile="MessageProcessApi/Controllers/MessageController.cs" line="62" column="1" />
